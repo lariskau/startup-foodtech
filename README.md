@@ -1,24 +1,16 @@
-# README
+# STARTUP FOODTECH
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Magnifique projet JQuery by Léa Bougaut et Edouard Plantevin en direct de Flers City la capitale de l'Orne.
 
-Things you may want to cover:
+Ce site présente un concept de startup R E V O L U T I O N N A I R E
+Mais on veut pas te spoiler :
 
-* Ruby version
+### Pour le découvrir : https://startup-foodtech-flers.herokuapp.com/
 
-* System dependencies
+Good to know :
 
-* Configuration
+* Ruby version 5.2
 
-* Database creation
+* Session The Hacking Project 5
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+La bise à tante
